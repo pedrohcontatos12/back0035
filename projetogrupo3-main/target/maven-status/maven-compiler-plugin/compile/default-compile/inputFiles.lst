@@ -1,0 +1,17 @@
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\ConcessionariaApplication.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\controllers\ClienteController.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\controllers\VeiculoController.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\controllers\VendaController.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\controllers\VendedorController.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\entities\Cliente.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\entities\Veiculo.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\entities\Venda.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\entities\Vendedor.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\repositories\ClienteRepository.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\repositories\VeiculoRepository.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\repositories\VendaRepository.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\repositories\VendedorRepository.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\services\ClienteService.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\services\VeiculoService.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\services\VendaService.java
+C:\Users\usuário\OneDrive\Ambiente de Trabalho\projetogrupo3-main\src\main\java\grupo\concessionaria\services\VendedorService.java
